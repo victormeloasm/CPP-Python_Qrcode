@@ -50,6 +50,14 @@ This project is licensed under the [MIT License](LICENSE).
 - **Python**: For its simplicity and extensive library support.
 - **C++ Builder**: For enabling powerful integration of Python and C++.
 
+
+## **Download**
+
+You can download the latest release from the following link:
+
+[QRCodeCPP_v1.0.zip](https://github.com/victormeloasm/CPP-Python_Qrcode/releases/download/Windows/QRCodeCPP_v1.0.zip)
+
+
 ## **Contact**
 
 For questions or contributions, please contact [Víctor Duarte Melo](mailto:victormeloasm@gmail.com).
