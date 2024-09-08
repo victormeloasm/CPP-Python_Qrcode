@@ -32,7 +32,7 @@ On startup, the application runs a Python script to install necessary libraries 
 
 1. **Install Python**: Ensure Python is installed and added to the system PATH.
 2. **Create `requirements.txt`**: List the required Python libraries, such as `qrcode` and `pillow`.
-3. **Place Scripts**: Ensure `gqrcode.py`, `install_requirements.py`, and `requirements.txt` are in the same directory as your C++ application executable.
+3. **Place Scripts**: Ensure `gqrcode.py` and `requirements.txt` are in the same directory as your C++ application executable.
 4. **Compile the Application**: Use C++ Builder to compile the project.
 
 ## **Troubleshooting**
