@@ -25,6 +25,27 @@
 *.la
 *.a
 *.lib
+*.dsk
+*.tds
+*.local
+*.bpr
+*.dproj
+*.groupproj
+*.bdsproj
+*.gdb
+*.cbd
+*.gds
+*.cfg
+*.dcu
+*.dcr
+*.res
+*.dfm
+
+# Ignorar Makefiles
+Makefile
+makefile
+Makefile.in
+makefile.in
 
 # Executables
 *.exe
