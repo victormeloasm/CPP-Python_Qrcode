@@ -1,5 +1,4 @@
 *.cpp text
 *.h text
 *.py text
-*.dfm text
-*.cbproj text
+
