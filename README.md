@@ -52,8 +52,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## **Contact**
 
-For questions or contributions, please contact [Your Name](mailto:your.email@example.com).
+For questions or contributions, please contact [Víctor Duarte Melo](mailto:victormeloasm@gmail.com).
 
----
 
-Feel free to adjust any sections according to your needs!
